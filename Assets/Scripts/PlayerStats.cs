@@ -1,0 +1,10 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public static class PlayerStats {
+
+    public static int test;
+	// Use this for initialization
+
+}

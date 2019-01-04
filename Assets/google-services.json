@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "365167581767",
+    "firebase_url": "https://ufogame-bcdca.firebaseio.com",
+    "project_id": "ufogame-bcdca",
+    "storage_bucket": "ufogame-bcdca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365167581767:android:510df660df924f3a",
+        "android_client_info": {
+          "package_name": "com.Novero.UFOGame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365167581767-c4lp8ck1qe1gepcp9c34cbk9ufk48juf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWONDdU07PWJsW2vdurmG0EmR-LE4w6nE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
